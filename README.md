@@ -21,3 +21,12 @@ This project is a simple **console application** that demonstrates **Entity Fram
    ```bash
    dotnet add package Microsoft.EntityFrameworkCore --version 8.*
    dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 8.*
+Run the project:
+
+dotnet run
+
+Final Assignment: Code-First EF Example
+Creating database and adding a student...
+
+Current Students in Database:
+[1] Ada Lovelace - ada@example.com
